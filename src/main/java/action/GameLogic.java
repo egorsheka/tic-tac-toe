@@ -1,7 +1,7 @@
 package action;
 
 public class GameLogic {
-    public int[] values;
+    private int[] values;
 
     public GameLogic() {
         this.values = new int[9];

@@ -63,7 +63,6 @@ public class Start {
                 winPlayer = secondPlayer;
 
             }
-            System.out.println(Arrays.toString(gameLogic.values));
 
             if (gameLogic.isEndOfGame()) {
                 System.out.println(gameBoard);
